@@ -1,4 +1,4 @@
-name = "2dLiquidCrystal"
+name = "nematic_monte_carlo"
 uuid = "f9d8c4e1-9e3e-4f8a-8f70-cd1c2e3d1234"
 authors = ["Hiromu Ushihara <h.ushihara223@gmail.com>"]
 version = "0.1.0"
