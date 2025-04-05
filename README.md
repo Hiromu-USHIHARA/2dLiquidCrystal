@@ -95,3 +95,4 @@ The nematic order (order of the alignment) appears when the packing is dense as 
 
 ## Note
 
+- The simulation was originally implemented as an answer to a university report assignment of an undergraduate course on soft matter physics.
