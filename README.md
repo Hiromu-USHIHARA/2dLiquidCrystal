@@ -4,7 +4,7 @@
 This repository contains a Monte Carlo simulation of a 2D nematic liquid crystal system using the Metropolis algorithm. Molecules are modeled as rigid rods in 2D space, each with a position and an orientation. The simulation visualizes the evolution of the system optionally under optionally an external field.
 
 <p align="center">
-  <img src="LC.num256.time128.gif" alt="Liquid Crystal Simulation GIF" width="500">
+  <img src="images/anim.H0.0.T300.0.num256.time256.gif" alt="Liquid Crystal Simulation GIF" width="500">
 </p>
 
 ---
