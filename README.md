@@ -82,13 +82,13 @@ The system evolves like:
 
 <p align="center">
   <img src="images/anim.H0.0.T300.0.num100.time200.gif" alt="Liquid Crystal Simulation GIF" width="300">
-  <img src="images/S.H0.0.T300.0.num100.time200.png" alt="Liquid Crystal Simulation GIF" width="300">
+  <img src="images/S.H0.0.T300.0.num100.time200.png" alt="Order Parameter" width="300">
 </p>
 
 The nematic order (order of the alignment) appears when the packing is dense as in the figure below.
 
 <p align="center">
-  <img src="images/anim.H0.0.T300.0.num256.time256.gif" alt="Liquid Crystal Simulation GIF" width="500">
+  <img src="images/S_comparison.H0.0.T300.0.time200.png" alt="Comparison of Order Parameter for Different Densities" width="500">
 </p>
 
 ---
