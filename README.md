@@ -81,7 +81,7 @@ Tracking $S(t)$ over time reveals how thermal fluctuations and external fields a
 The system evolves like:
 
 <p align="center">
-  <img src="images/anim.H0.0.T300.0.num100.time200.gif" alt="Liquid Crystal Simulation GIF" width="200">
+  <img src="images/anim.H0.0.T300.0.num100.time200.gif" alt="Liquid Crystal Simulation GIF" width="300">
   <img src="images/S.H0.0.T300.0.num100.time200.png" alt="Liquid Crystal Simulation GIF" width="300">
 </p>
 
