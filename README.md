@@ -60,7 +60,7 @@ This process is repeated for many Monte Carlo sweeps to simulate the temporal ev
 
 ## Order Parameter
 
-To quantify the degree of orientational ordering in the system, we calculate the **nematic order parameter** $ S $. Unlike polar order, nematic order does not distinguish between a molecule pointing in direction $\theta$ and one pointing in direction $\theta + \pi$. Therefore, the order parameter is defined using $2\theta$:
+To quantify the degree of orientational ordering in the system, we calculate the **nematic order parameter** $S$. Unlike polar order, nematic order does not distinguish between a molecule pointing in direction $\theta$ and one pointing in direction $\theta + \pi$. Therefore, the order parameter is defined using $2\theta$:
 
 $$
 S = \sqrt{\langle \cos(2\theta) \rangle^2 + \langle \sin(2\theta) \rangle^2}
